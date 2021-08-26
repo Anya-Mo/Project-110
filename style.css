@@ -1,0 +1,22 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background-color: #bcffe9;
+    text-align: center;
+}
+.header_div {
+    background-color: #9dffd6;
+}
+.header_div img {
+    width: 75px;
+    border-radius: 20%;
+}
+.text_images_and_result {
+    border: 2px solid white;
+    width: 500px;
+    height: 450px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin: 20px;
+}
